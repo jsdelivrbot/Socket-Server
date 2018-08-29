@@ -6,7 +6,7 @@ let path = require('path');
 let app = express();
 
 //create a server
-let server = app.listen(4000);
+let server = app.listen(process.env.PORT || 4000);
 
 //socket set up
 let io = socket(server); // takes a parameter to what server we wanna work with
