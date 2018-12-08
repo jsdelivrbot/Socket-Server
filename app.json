@@ -2,7 +2,7 @@
   "name": "Socket-Server",
   "description": "A socket server app using Express 4",
   "repository": "https://github.com/Vinay328/Socket-Server.git",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": [
     "node",
     "express",
